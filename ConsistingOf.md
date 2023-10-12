@@ -34,7 +34,7 @@ You should be now be at a UI that looks as above, displaying the two adapters yo
 
 Press Start for the Kali machine, let it boot up and then log in with the default credentials of Username: kali | Password: kali. 
 
-For the Metasploitable VM it will be very simple as you just need to start the VM. The credentials are Username: Msfadmin | Password: Msfadmin.
+For the Metasploitable VM it will be very simple as you just need to start the VM. The credentials are Username: msfadmin | Password: msfadmin.
 
 Now all of the VMs that we currently need are up and running. We will attempt to gain a backdoor on the Metasploitable machine first from Kali.
 
